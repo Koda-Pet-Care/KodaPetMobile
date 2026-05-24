@@ -92,13 +92,14 @@ npx expo start --ios
 
 ## 👥 Equipe
 
-<!-- Evelyn Ferreira 562744
+Evelyn Ferreira 562744
 Henrique Sinkevicius Maran 562977
-Maicon Douglas 561279 -->
+Maicon Douglas 561279
+<!--  -->
 
 ---
 
 ## 🎥 Vídeo de Demonstração
-
-<!-- https://www.youtube.com/shorts/EXfuONl99-8 -->
+https://www.youtube.com/shorts/EXfuONl99-8
+<!--  -->
 
